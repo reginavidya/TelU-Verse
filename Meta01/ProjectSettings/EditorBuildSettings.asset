@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: a810965def3df6c448c96ce228ae2e47
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 61c45d64bd3fd1a4485c5628a57d4ceb
+  - enabled: 1
+    path: Assets/Scenes/Character.unity
+    guid: 6d81cc9bcbff86b4fa555897a6ea98e8
+  - enabled: 1
+    path: "Assets/GO Map - 3D Map For AR Gaming/Demo/Flat Map - Pok\xE8mon GO Style.unity"
+    guid: 331e65508a1194ad58e0fcfb4ca518b4
+  - enabled: 1
+    path: Assets/GO Map - 3D Map For AR Gaming/Demo/SearchLocation - Demo.unity
+    guid: e5328b781093b46eba0de8ceacce5775
+  m_configObjects: {}
